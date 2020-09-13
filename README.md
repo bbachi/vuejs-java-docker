@@ -1,2 +1,2 @@
-# vuejs-java-docker
-Example project to demonstrate how to dockerize the Vue.js with Java Backend
+# angular-java-example
+This is an example project of angular with java
